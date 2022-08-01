@@ -2,4 +2,4 @@ docs_list_title: List of contents
 docs:
 
 - title: First Markdown
-  url: first_markdown.html
+  url: first_markdown.md
