@@ -1,3 +1,8 @@
+---
+layout: default
+title: "First Markdown""
+rank: 1
+---
 # Header
 1. First level
     * Sublevel
